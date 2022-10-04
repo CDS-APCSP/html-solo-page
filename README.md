@@ -4,6 +4,7 @@
 You will use this to try out inserting different elements into a HTML document. You should use the following tags in your document:
 -`<h1>`
 -`<h2>`
+-`<h3>`
 -`<p>`
 -`<div>`
 -`<a>`
